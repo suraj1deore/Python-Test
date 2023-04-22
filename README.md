@@ -5,10 +5,6 @@
 
 1. Clone the repository:
 
-   ```
-   git clone https://github.com/yourusername/address-book.git
-   ```
-
 2. Install the required dependencies:
 
    ```
@@ -26,8 +22,6 @@
    ```
    http://localhost:8000/docs
    ```
-
-   Note: You can specify a different port number using the `--port` flag in the `uvicorn` command.
 
 ## Usage
 
