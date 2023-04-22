@@ -3,7 +3,7 @@
 
 ## Installation
 
-1. Clone the repository: git clone https://suraj1deore.github.io/Python-Test/
+1. Clone the repository: git clone https://github.com/suraj1deore/Python-Test.git
 
 2. Install the required dependencies:
 
